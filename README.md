@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devin
 - 👀 I’m interested in video games, AI/machine learning, and anime. 😈
-- 🌱 I’m currently learning Kotlin, java, and C++.
+- 🌱 I’m currently learning Kotlin, java, and C++. (this is a lie)
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 Contact: ddevin099@gmail.com
 
